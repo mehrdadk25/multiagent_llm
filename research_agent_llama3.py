@@ -1,4 +1,4 @@
-pip install phi
+!pip install phi
 # Import the required libraries
 import streamlit as st
 from phi.assistant import Assistant
